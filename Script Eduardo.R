@@ -1,1 +1,6 @@
-Script Eduardo
+#Script Eduardo
+
+
+
+testando
+FORA GIT IGNORE

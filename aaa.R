@@ -1,1 +1,2 @@
-Lamabri
+"Lamabari veidiane"
+"desideria rhamdiopsis"

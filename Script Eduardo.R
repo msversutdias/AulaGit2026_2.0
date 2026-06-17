@@ -1,1 +1,3 @@
-Script Eduardo
+#Script Eduardo
+
+#vai trabalhar fi
